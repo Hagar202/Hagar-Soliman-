@@ -102,19 +102,6 @@ I’ve worked on various machine learning applications in:
 - t-SNE  
 - UMAP  
 
-**Association Rule Learning:**
-- Apriori Algorithm  
-- ECLAT Algorithm  
-
----
-
-#### 🎮 Reinforcement Learning
-
-- Q-Learning  
-- SARSA  
-- Deep Q Networks (DQN)  
-- Policy Gradient  
-- Actor-Critic Methods  
 
 ---
 
